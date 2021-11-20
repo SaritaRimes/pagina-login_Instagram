@@ -44,18 +44,6 @@ body{
    height: 417px;
 }
 
-/*.instagram-phone img{
-   height: 42rem;
-}
-
-.instagram-screen img{
-   position: relative;
-   width: 234.5px;
-   margin-left: -272px;
-   margin-top: -204px;
-   border: 2px solid;
-}*/
-
 .instagram-continue{
    display: flex;
    align-items: center; /* horizontal */
